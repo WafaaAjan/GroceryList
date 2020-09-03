@@ -1,5 +1,5 @@
 # GroceryList
-
+Version 0.1
 Medlemmer:
 
 Bilal Ajane - @BilalAjane
